@@ -1,1 +1,3 @@
 This is my first file in git tutorial!
+My name is Manh Vichhai.
+I am a computer science student at Royal University of Phnom Penh.
